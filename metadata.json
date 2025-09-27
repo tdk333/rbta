@@ -2,7 +2,7 @@
   "name": "Rare BITA",
   "symbol": "RBTA",
   "description": "Rare BITA",
-  "image": "https://mybitadvantage.com/rbta1.png",
+  "image": "https://mybitadvantage.com/rbta.png",
   "attributes": [
     {
       "trait_type": "Category",
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://mybitadvantage.com/rbta1.png",
+        "uri": "https://mybitadvantage.com/rbta.png",
         "type": "image/png"
       }
     ],
