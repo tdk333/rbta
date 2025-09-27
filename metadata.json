@@ -1,0 +1,31 @@
+{
+  "name": "Rare BITA",
+  "symbol": "RBTA",
+  "description": "Rare BITA",
+  "image": "https://mybitadvantage.com/rbta.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "28641"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://mybitadvantage.com/rbta.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "external_url": "https://mybitadvantage.com",
+  "animation_url": "",
+  "collection": {
+    "name": "BitAdvantage",
+    "family": "BitAdvantage Family"
+  }
+}
